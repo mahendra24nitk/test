@@ -1,0 +1,20 @@
+
+
+.home-nav{
+	 -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.home-banner{
+	/*background-image: url('/images/7.jpg');*/
+
+	background-size: cover;
+	height: 55vh;
+	background-repeat: no-repeat;
+	background-position: top center ;
+	 background: linear-gradient(#141E31, #243b56);
+	 color: #fff;
+	
+
+
+}
